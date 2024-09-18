@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [https://kanisaket10.github.io/Portfolio/](https://kanisaket10.github.io/Portfolio/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/kanishka-saket-5a805725b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+- 📫 How to reach me  : **https://www.linkedin.com/in/kanishka-saket-5a805725b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 
-- ⚡ Fun fact **Learning to code, one error at a time🥲**
+- ⚡ Fun fact : **Learning to code, one error at a time🥲**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
